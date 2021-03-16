@@ -1,7 +1,7 @@
 {
   "servers": {
     "localhost": {
-      "ServerName": "Localhost",
+      "ServerName": "DaishState",
       "Kenya Playermanager": {},
       "FivemStriker": {},
       "FivemServerRestart": {},
@@ -13,15 +13,21 @@
   "notValid": {
     "JS": {
       "RunMethod": "",
-      "Argument":[]
+      "Argument": {}
     },
     "LUA": {
       "RunMethod": "",
-      "Argument":[]
+      "Argument": {}
     },
     "C#": {
       "RunMethod": "",
-      "Argument":[]
+      "Argument": {}
+    }
+  },
+  "KillSwitch": {
+    "FivemServerRestart": {
+      "RunMethod": "",
+      "Argument": {}
     }
   }
 }
