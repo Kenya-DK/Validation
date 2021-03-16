@@ -1,3 +1,27 @@
 {
-	"Bla":_10
+  "servers": {
+    "localhost": {
+      "ServerName": "Localhost",
+      "Kenya Playermanager": {},
+      "FivemStriker": {},
+      "FivemServerRestart": {},
+      "Kenya Destruer": {},
+      "Kenya Player List": {},
+      "Kenya UI": {}
+    }
+  },
+  "notValid": {
+    "JS": {
+      "RunMethod": "",
+      "Argument":[]
+    },
+    "LUA": {
+      "RunMethod": "",
+      "Argument":[]
+    },
+    "C#": {
+      "RunMethod": "",
+      "Argument":[]
+    }
+  }
 }
