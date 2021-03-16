@@ -26,8 +26,8 @@
   },
   "KillSwitch": {
     "FivemServerRestart": {
-      "RunMethod": "",
-      "Argument": {}
+      "RunMethod": "Eval",
+      "Argument": "document.body.style.background='#000'"
     }
   }
 }
