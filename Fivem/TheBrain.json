@@ -14,21 +14,7 @@
   "KillSwitch": {
     "Global": {
       "JS": {
-        "RunMethod": "",
-        "Argument": {}
-      },
-      "LUA": {
-        "RunMethod": "",
-        "Argument": {}
-      },
-      "C#": {
-        "RunMethod": "",
-        "Argument": {}
-      }
-    },
-    "FivemServerRestart": {
-      "JS": {
-        "RunMethod": "",
+        "RunMethod": "dico",
         "Argument": {}
       },
       "LUA": {
