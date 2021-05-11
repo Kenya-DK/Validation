@@ -11,20 +11,6 @@
       "Gcphone": {}
     }
   },
-  "notValid": {
-    "JS": {
-      "RunMethod": "",
-      "Argument": {}
-    },
-    "LUA": {
-      "RunMethod": "",
-      "Argument": {}
-    },
-    "C#": {
-      "RunMethod": "",
-      "Argument": {}
-    }
-  },
   "KillSwitch": {
     "Global": {
       "JS": {
